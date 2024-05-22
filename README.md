@@ -4,4 +4,4 @@ TryHackMe is a great resource to help with learning, understanding and using the
 
 ![thm](https://tryhackme-badges.s3.amazonaws.com/MDaleyJr.png)
 
-That puts me in the top 6% of all TryHackMe users
+That puts me in the top 5% of all TryHackMe users
