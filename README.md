@@ -4,4 +4,4 @@ TryHackMe is a great resource to help with learning, understanding and using the
 
 ![thmp](https://tryhackme-badges.s3.amazonaws.com/D33B0.png)
 
-That puts me in the top 5% of all TryHackMe users
+That puts me in the top 4% of all TryHackMe users
